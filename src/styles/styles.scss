@@ -1,0 +1,18 @@
+// styles.scss
+
+$primary-color: #3498db;
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  h1 {
+    font-size: 2rem;
+    color: $primary-color;
+  }
+
+  p {
+    color: gray;
+  }
+}
